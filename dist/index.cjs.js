@@ -2151,7 +2151,7 @@ var links = [
         items: [
             {
                 label: "Github",
-                href: "https://github.com/VikingDefi/",
+                href: "https://github.com/ZENSDefi/",
             },
             {
                 label: "Docs",
