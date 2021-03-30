@@ -2158,18 +2158,18 @@ var socials = [
         items: [
             {
                 label: "TG Announcements",
-                href: "https://t.me/takoyaki_finance",
+                href: "https://t.me/ZENSdefi",
             },
             {
                 label: "TG Group",
-                href: "https://t.me/takoyakifinance",
+                href: "https://t.me/ZENSfinance",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/takoyakidefi",
+        href: "https://twitter.com/defizens",
     },
 ];
 var MENU_HEIGHT = 64;
