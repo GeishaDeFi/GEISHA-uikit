@@ -2138,7 +2138,7 @@ var links = [
         items: [
             {
                 label: "Github",
-                href: "https://github.com/VikingDefi/",
+                href: "https://github.com/GeishaDeFi/",
             },
             {
                 label: "Docs",
@@ -2156,20 +2156,20 @@ var socials = [
         label: "Telegram",
         icon: "TelegramIcon",
         items: [
-            {
-                label: "TG Announcements",
-                href: "https://t.me/ZENSdefi",
-            },
+         //   {
+         //       label: "TG Announcements",
+         //       href: "https://t.me/ZENSdefi",
+         //   },
             {
                 label: "TG Group",
-                href: "https://t.me/ZENSfinance",
+                href: "https://t.me/finance_geisha",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/defizens",
+        href: "https://twitter.com/Finance_Geisha",
     },
 ];
 var MENU_HEIGHT = 64;

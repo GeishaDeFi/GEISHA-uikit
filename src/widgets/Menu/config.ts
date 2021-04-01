@@ -51,7 +51,7 @@ export const links = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/ZENSDefi/",
+        href: "https://github.com/GeishaDeFi/",
       },
       {
         label: "Docs",
@@ -70,20 +70,20 @@ export const socials = [
     label: "Telegram",
     icon: "TelegramIcon",
     items: [
-      {
-        label: "TG Announcements",
-        href: "https://t.me/ZENSdefi",
-      },
+     // {
+     //   label: "TG Announcements",
+     //   href: "https://t.me/ZENSdefi",
+     // },
       {
         label: "TG Group",
-        href: "https://t.me/ZENSfinance",
+        href: "https://t.me/finance_geisha",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/Defizens",
+    href: "https://twitter.com/Finance_Geisha",
   },
 ];
 
