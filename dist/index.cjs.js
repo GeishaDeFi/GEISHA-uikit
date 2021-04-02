@@ -2169,10 +2169,10 @@ var socials = [
         label: "Telegram",
         icon: "TelegramIcon",
         items: [
-            //{
-            //    label: "TG Announcements",
-            //    href: "https://t.me/ZENSdefi",
-           // },
+            {
+                label: "TG Announcements",
+                href: "https://t.me/GeishaFinance",
+            },
             {
                 label: "TG Group",
                 href: "https://t.me/GeishaFinance",
