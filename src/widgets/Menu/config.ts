@@ -76,7 +76,7 @@ export const socials = [
      // },
       {
         label: "TG Group",
-        href: "https://t.me/finance_geisha",
+        href: "https://t.me/GeishaFinance",
       },
     ],
   },
